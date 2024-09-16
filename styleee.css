@@ -47,7 +47,7 @@ form label {
 }
 
 form input {
-  width: 100%;
+  width: 500%;
   padding: 7px;
   border: none;
   border: 1px solid gray;
